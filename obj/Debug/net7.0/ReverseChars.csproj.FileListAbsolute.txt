@@ -1,0 +1,14 @@
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\bin\Debug\net7.0\ReverseChars.exe
+c:\Users\Ana PC\Documents\Ugur\ReverseChars\bin\Debug\net7.0\ReverseChars.deps.json
+c:\Users\Ana PC\Documents\Ugur\ReverseChars\bin\Debug\net7.0\ReverseChars.runtimeconfig.json
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\bin\Debug\net7.0\ReverseChars.dll
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\bin\Debug\net7.0\ReverseChars.pdb
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.AssemblyInfoInputs.cache
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.AssemblyInfo.cs
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.csproj.CoreCompileInputs.cache
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.dll
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\refint\ReverseChars.dll
+C:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.pdb
+c:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ReverseChars.genruntimeconfig.cache
+c:\Users\Ana PC\Documents\Ugur\ReverseChars\obj\Debug\net7.0\ref\ReverseChars.dll
